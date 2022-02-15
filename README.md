@@ -5,5 +5,6 @@
 * Vincular llaves SSH a GitHub.
 * Clonar y hacer fork de un repositorio.
 * Buenas prácticas para Git y GitHub.
+* Creado por el increíble Alex.
 
 ## #NuncaParesDeAprender con [Platzi](https://platzi.com) :green_heart:
