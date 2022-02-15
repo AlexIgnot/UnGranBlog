@@ -7,6 +7,6 @@
 * Buenas prácticas para Git y GitHub.
 * Creado por el increíble Alex.
 * No tengo pa una mejor pc, alluda
-
+* HOla muNDO.
 
 ## #NuncaParesDeAprender con [Platzi](https://platzi.com) :green_heart:
